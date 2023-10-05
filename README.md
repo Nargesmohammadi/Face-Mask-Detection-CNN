@@ -27,6 +27,9 @@ pip install tensorflow numpy matplotlib opencv-python scikit-learn
 
 The model achieves an accuracy  94% on the test set.
 
-Below is the result of the code for predicting the images:
+Below is the results of the code for predicting the images:
 ![image](https://github.com/Nargesmohammadi/Face-Mask-Detection-CNN/assets/96385230/338119dc-97bc-46b5-a0ef-f579e49ff1ba)
+
+![image](https://github.com/Nargesmohammadi/Face-Mask-Detection-CNN/assets/96385230/04573e74-4be7-4ab6-89ce-d2bf7b07c86d)
+
 
