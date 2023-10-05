@@ -23,36 +23,10 @@ I've installed these dependencies using pip:
 pip install tensorflow numpy matplotlib opencv-python scikit-learn
 ```
 
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/face-mask-detection.git
-```
-
-2. Download the dataset from the link provided above and extract it to the `data` directory.
-
-3. Train the model:
-
-```
-python train.py
-```
-
-4. Test the model:
-
-```
-python test.py
-```
-
-5. Predict on a new image:
-
-```
-python predict.py /path/to/image.jpg
-```
-
 ## Results
 
 The model achieves an accuracy  94% on the test set.
+
+Below is the result of the code for predicting the images:
+![image](https://github.com/Nargesmohammadi/Face-Mask-Detection-CNN/assets/96385230/338119dc-97bc-46b5-a0ef-f579e49ff1ba)
+
